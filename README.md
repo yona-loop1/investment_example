@@ -111,11 +111,6 @@ investment\_example/
 * שילוב Machine Learning לניתוח השקעות
 * שיפורי UI/UX
 
----
-
-## 👤 מחבר
-
-פיתוח על ידי [yona-loop1](https://github.com/yona-loop1).
 
 ```
 
